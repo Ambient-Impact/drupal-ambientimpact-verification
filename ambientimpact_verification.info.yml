@@ -2,4 +2,4 @@ name: Ambient.Impact - Verification
 type: module
 description: Site verification for <a href="https://ambientimpact.com">ambientimpact.com</a>.
 package: Ambient.Impact
-core_version_requirement: ^9
+core_version_requirement: ^9.5 || ^10.0

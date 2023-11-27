@@ -9,5 +9,8 @@
       "homepage": "https://ambientimpact.com/",
       "role": "Developer"
     }
-  ]
+  ],
+  "require": {
+    "drupal/core": "^9.5 || ^10.0"
+  }
 }
